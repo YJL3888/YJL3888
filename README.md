@@ -6,3 +6,5 @@ I am a self starter and a quick learner currently in my third year of Software E
 This summer, I am joining [Shopify](https://www.shopify.com/ca) as a Machine Learning Engineer in the recommendations team!
 
 🔗 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jasonyuchenliu/) or drop me an email at yj7liu@uwaterloo.ca. I'm always up for discussing tech, sharing ideas, or collaborating on exciting projects!
+
+![snake animation](https://github.com/YJL3888/YJL3888/blob/output/github-contribution-grid-snake2.svg)
