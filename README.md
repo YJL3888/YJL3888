@@ -3,7 +3,7 @@
 
 I am a self starter and a quick learner currently in my third year of Software Engineering at the [University of Waterloo](https://uwaterloo.ca/). I have a strong passion for all things tech and I'm always curious to learn more.
 
-This summer, I am joining [Shopify](https://www.shopify.com/ca) as a Machine Learning Engineer in the recommendations team!
+This summer, I am joining [Virtu Financial](https://www.virtu.com/) as a Core Operations Engineer in Austin, TX!
 
 🔗 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jasonyuchenliu/) or drop me an email at yj7liu@uwaterloo.ca. I'm always up for discussing tech, sharing ideas, or collaborating on exciting projects!
 
