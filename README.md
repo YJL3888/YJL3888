@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=40&lines=Hi!+I'm+Jason+%F0%9F%91%8B)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hi!+I'm+Jason+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
 
-I am a self starter and a quick learner currently in my third year of Software Engineering at the [University of Waterloo](https://uwaterloo.ca/). I have a strong passion for all things tech and I'm always curious to learn more.
+I am a self starter and a quick learner currently in my fourth year of Software Engineering at the [University of Waterloo](https://uwaterloo.ca/). I have a strong passion for all things tech and I'm always curious to learn more.
 
 This summer, I am joining [Virtu Financial](https://www.virtu.com/) as a Core Operations Engineer in Austin, TX!
 
